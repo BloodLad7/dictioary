@@ -11,7 +11,7 @@ stomachAches = { 'defintion': '' ,'treatment': 'The body needs water to digest a
 
 stroke = { 'defintion': '' ,'treatment': 'An IV injection of recombinant tissue plasminogen activator (TPA) — also called alteplase (Activase) or tenecteplase  \n(TNKase) — is the gold standard cure for ischemic stroke. An injection of TPA is usually given through a vein in the arm within the first three hours.'}
 
-allergies = { 'defintion': 'Allergies are an immune response triggered by allergens, an ordinarily harmful substance.' ,'treatment': ''}
+allergies = { 'defintion': 'Allergies are an immune response triggered by allergens, an ordinarily harmful substance.' ,'treatment': 'The easiest and most effective way to treat allergies is to get rid of or avoid the cause. Where unavoidable, some lifestyle changes can reduce \nyour allergy symptoms. For example, if you are allergic to dust mites, make an effort to keep your room clean and free of dust \nby frequent vacuuming, dusting, and washing of bedding.'}
 
 
 

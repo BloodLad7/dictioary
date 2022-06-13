@@ -13,6 +13,7 @@ stroke = { 'defintion': '' ,'treatment': 'An IV injection of recombinant tissue 
 
 allergies = { 'defintion': 'Allergies are an immune response triggered by allergens, an ordinarily harmful substance.' ,'treatment': 'The easiest and most effective way to treat allergies is to get rid of or avoid the cause. Where unavoidable, some lifestyle changes can reduce \nyour allergy symptoms. For example, if you are allergic to dust mites, make an effort to keep your room clean and free of dust \nby frequent vacuuming, dusting, and washing of bedding.'}
 
+Conjunctivitis = { 'defintion': '' ,'treatment': '' ,'symptoms': 'These symptoms may last a few hours to several weeks: redness, itching, tearing, burning sensation, pus-like discharge and/or crusting of the eyelids. \nBecause conjunctivitis causes inflammation of the small blood vessels in the conjunctiva to become more prominent, the whites of your \neyes will appear pink or red.'}
 
 
 
@@ -20,8 +21,7 @@ allergies = { 'defintion': 'Allergies are an immune response triggered by allerg
 
 
 
-
-print(highbloodpressure['treatjment'])
+print(stroke['treatment'])
 
 
 

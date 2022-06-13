@@ -5,7 +5,7 @@ highbloodpressure = { 'defintion': 'High blood pressure (hypertension) is a comm
 
 diarrhea = { 'defintion': '' ,'treatment': 'Drink plenty of liquids, including water, broths and juices. Avoid caffeine and alcohol.',}          
 
-coldsandFlu = { 'defintion': '' ,'treatment': 'Stay hydrated. Water, juice, clear broth or warm lemon water with honey helps loosen congestion and prevents dehydration.'}
+coldsandFlu = { 'defintion': 'Influenza (flu) and the common cold are both contagious respiratory illnesses, but they are caused by different viruses. Flu is caused by influenza viruses \nonly, whereas the common cold can be caused by a number of different viruses, including rhinoviruses, parainfluenza, and seasonal coronaviruses.' ,'treatment': 'Stay hydrated. Water, juice, clear broth or warm lemon water with honey helps loosen congestion and prevents dehydration.'}
 
 stomachAches = { 'defintion': '' ,'treatment': 'The body needs water to digest and absorb nutrients from foods and beverages efficiently. \nBeing dehydrated makes digestion more difficult and less effective, which increases the likelihood of an upset stomach.'}
 
